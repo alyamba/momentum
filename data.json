@@ -1,0 +1,107 @@
+[
+  {
+    "ru": "Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живете",
+    "en": "Write code like it's accompanied by a violent psychopath who knows where you live.",
+    "author": "Steve McConnell"
+  },
+  {
+    "ru": "Сложность программы растет до тех пор, пока не превысит способности программиста",
+    "en": "The complexity of the program grows until it exceeds the ability of the programmer.",
+    "author": "Arthur Bloch. Murphy's laws"
+  },
+  {
+    "ru": "Ходить по воде и разрабатывать программы, следуя ТЗ, очень просто… если они заморожены",
+    "en": "It's very easy to walk on water and develop programs to specifications... if they're frozen.",
+    "author": "I.Berard"
+  },
+  {
+    "ru": "Низкоуровневый язык — это когда требуется внимание к вещам, которые никак не связаны с программами на этом языке.",
+    "en": "A low-level language is when attention is required to things that have nothing to do with programs in this language.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "ru": "В хорошем дизайне добавление чего-то стоит дешевле, чем сама эта вещь.",
+    "en": "In good design, adding something costs less than the thing itself.",
+    "author": "Mosher's Law of Software Engineering"
+  },
+  {
+    "ru": "В теории, теория и практика неразделимы. На практике это не так.",
+    "en": "In theory, theory and practice are inseparable. In practice, this is not the case.",
+    "author": "Yoggi Berra"
+  },
+  {
+    "ru": "Я изобрел понятие «объектно-ориентированный», и могу заявить, что не имел в виду C++.",
+    "en": "I came up with the concept of 'object-oriented', and I can say that I didn't mean C++.",
+    "author": "Alan Kay"
+  },
+  {
+    "ru": "Иногда лучше остаться спать дома в понедельник, чем провести всю неделю в отладке написанного в понедельник кода.",
+    "en": "Sometimes it's better to stay at home on Monday than debug code written on Monday all week.",
+    "author": "Christopher Thompson"
+  },
+  {
+    "ru": "Измерять продуктивность программиста подсчетом строк кода — это так же, как оценивать постройку самолета по его весу.",
+    "en": "Measuring a programmer's productivity by counting lines of code is like judging an airplane's build by its weight.",
+    "author": "Bill Gates"
+  },
+  {
+    "ru": "Многие из вас знакомы с достоинствами программиста. Их всего три, и разумеется это: лень, нетерпеливость и гордыня.",
+    "en": "Many of you are familiar with the virtues of being a programmer. There are only three of them, and of course this is: laziness, impatience and pride.",
+    "author": "Larry Wall"
+  },
+  {
+    "ru": "Люди, которые думают, что ненавидят компьютеры, на самом деле ненавидят плохих программистов.",
+    "en": "People who think they hate computers actually hate bad programmers.",
+    "author": "Larry Niven"
+  },
+  {
+    "ru": "Язык, который не меняет вашего представления о программировании, недостоин изучения.",
+    "en": "A language that doesn't change the way you think about programming is not worth learning.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "ru": "Иногда лучшие программы создаются на бумажке. Запрограммировать их — второстепенная вещь.",
+    "en": "Sometimes the best programs are written on paper. Programming them is a secondary thing.",
+    "author": "Max Kanat-Alexander"
+  },
+  {
+    "ru": "Отладка кода — это как охота. Охота на баги.",
+    "en": "Debugging code is like hunting. Hunting for bugs.",
+    "author": "Amit Kalantri"
+  },
+  {
+    "ru": "Любой дурак сможет написать код, который поймет машина. Хорошие программисты пишут код, который сможет понять человек.",
+    "en": "Any fool can write code that a machine can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
+  },
+  {
+    "ru": "Программирование — это разбиение чего-то большого и невозможного на что-то маленькое и вполне реальное.",
+    "en": "Programming is about breaking something big and impossible into something small and quite real.",
+    "author": "Jazzwant"
+  },
+  {
+    "ru": "Программисты — не математики, как бы нам этого ни хотелось.",
+    "en": "Programmers are not mathematicians, as much as we would like them to be.",
+    "author": "Richard P. Gabriel"
+  },
+  {
+    "ru": "Простота — залог надежности.",
+    "en": "Simplicity is the key to reliability",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "ru": "Работает? Не трогай.",
+    "en": "Works? Do not touch.",
+    "author": "Any programmer"
+  },
+  {
+    "ru": "Насколько проще было бы писать программы, если бы не заказчики.",
+    "en": "How much easier it would be to write programs if it were not for customers.",
+    "author": "R. S. Martin"
+  },
+  {
+    "ru": "Молодые специалисты не умеют работать, а опытные специалисты умеют не работать.",
+    "en": "Young specialists do not know how to work, and experienced specialists know how not to work.",
+    "author": "Alexander Golov"
+  }
+]
